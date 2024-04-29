@@ -1,8 +1,10 @@
-# Rest Project + TypeScript
+# Rest Project + TypeScript + WebSockets
 
 Este proyecto previamente inicializado tiene todo lo necesario para trabajar con TypeScript, Express y Rest.
 
-Cada paso de su configuración ya se ha realizado previamente en el curso, por lo que solo es necesario clonar el proyecto y comenzar a trabajar.
+Solo es necesario clonar el proyecto y comenzar a trabajar.
+
+Se conectan los Websockets con nuestro Restful API y así poder disparar la comunicación en tiempo real cuando los eventos sucedan
 
 
 ## Instalación
